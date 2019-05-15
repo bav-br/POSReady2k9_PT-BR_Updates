@@ -27,3 +27,6 @@ O POSReady 2009 vem com o Service Pack 3 instalado. Contudo, para melhor eficác
 Nem todas as atualizações PT-BR instalam com sucesso. Elas estão localizadas na pasta Failed. Somente as respectivas atualiações em inglês funcionarão ou não.
 
 Não me responsabilizo por quaisquer problemas inerentes ao processo. Faça por sua conta e risco.
+
+Link alternativo para os arquivos deste repositório: https://mega.nz/#!k7YzwYRa!5HWTYbZLRa4SGTj2rBl_nU-fQmtKM13SvaJbMMPUZJg
+DVD de instalação: https://mega.nz/#!krBRBQbb!WEiq5siPS92tkA7WLrOs9n_Na5GGozYoglBy80UaKto
