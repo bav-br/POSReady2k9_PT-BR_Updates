@@ -9,9 +9,9 @@ NÂO estão incluidas:
 - Os Pacotes Redistribuíveis do Micorsoft Visual C++. Estas podem ser obtidas de forma avulsa diretamente da Microsoft, mas também de forma separada, através de repacks não oficiais que contém este e outros componentes (alguns até mais atualizados que os fornecidos oficialmente).
 - O pacote de atuaizações do DirectX, de Junho de 2010.
 - Programas como o Windows Defender, Transferência Fácil do Windows, Windows Live Essentials 2009, XPS Viewer, Temas Oficiais e Não Oficiais (Royale, Zune, Royale Noir e outros).
-- Internet Explorer 8 e MRT (pode baixar e instalar o pacote PT-BR e suas atualizações normalmente, seguindo a dica abaixo)
+- Internet Explorer 8 (inclui apenas a atualização mais recente para referência) e MRT (pode baixar e instalar o pacote PT-BR e suas atualizações normalmente, seguindo a dica abaixo)
 
-A pasta Optionals contém algumas das atualizações opcionais lançadas exclusivamente para o POSReady 2009, disponível somente em inglês, além de atualizações não oficiais, do Movie Maker (que não vem instalado por padrão - instale a versão 2.0 e instale as atualizações correspondentes, que ele será atualizado para a 2.1) e mais.
+A pasta Optional contém algumas das atualizações opcionais lançadas exclusivamente para o POSReady 2009, disponível somente em inglês, além de atualizações não oficiais, do Movie Maker (que não vem instalado por padrão - instale a versão 2.0 e instale as atualizações correspondentes, que ele será atualizado para a 2.1) e mais.
 
 Foi testado com o POSReady 2009 em inglês (EN-US) com a MUI PT-BR instalada. Para poder instalar as atualizações em PT-BR, é recomendável seguir a seguinte instrução (do contrário, dará erro, pois o sistema só aceitará as atualizações em EN-US):
 
