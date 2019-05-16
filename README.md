@@ -2,7 +2,7 @@
 
 Conjunto de atualizações para o POSReady 2009 para instalação manual e outras propostas, até Maio de 2019.
 
-A relação, disponível em Tested (Files List).txt, inclui as atualizações de segurança do XP e POSReady 2009, Windows Media Player (leia mais abaixo), Windows Installer, MSXML e outros, incluindo hotfixes (os arquivos estão compactados como Tested.7z.00x).
+A relação, disponível em Updates (Files List).txt, inclui as atualizações de segurança do XP e POSReady 2009 (testadas e depreciadas, mas que podem ser instaladas), Windows Media Player (leia mais abaixo), Windows Installer, MSXML e outros, incluindo hotfixes (os arquivos estão compactados como Updates.7z.00x).
 
 NÂO estão incluidas:
 - As atualizações para o .NET Framework. Estas podem ser obtidas de forma avulsa, diretamente da Microsoft, mas também de forma separada, através do projeto dotNetFx_AIO (https://pastebin.com/HRJGkvbe).
