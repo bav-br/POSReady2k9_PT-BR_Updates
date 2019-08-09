@@ -28,6 +28,6 @@ Nem todas as atualizações PT-BR instalam com sucesso. Elas estão localizadas 
 
 Não me responsabilizo por quaisquer problemas inerentes ao processo. Faça por sua conta e risco.
 
-Link alternativo para os arquivos deste repositório: https://mega.nz/#!k7YzwYRa!5HWTYbZLRa4SGTj2rBl_nU-fQmtKM13SvaJbMMPUZJg
+Link alternativo para os arquivos deste repositório: https://mega.nz/#!BiIk0YqQ!3Ng0ZjwMlLFgjhmUeiOKf7VyClMrald50MxUOG-SYd0
 
 DVD de instalação: https://mega.nz/#!krBRBQbb!WEiq5siPS92tkA7WLrOs9n_Na5GGozYoglBy80UaKto
